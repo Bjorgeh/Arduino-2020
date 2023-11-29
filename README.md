@@ -1,4 +1,4 @@
-# elevator_with_remote
-Test from Fagskolen i Viken - programmering
+Exercises in my programming studies.
+Tasks for: Fagskolen i Viken - programming
 
 Learning arduino 2020
